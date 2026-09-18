@@ -1,0 +1,2 @@
+- 🕯 **[Veglia](https://github.com/rroossaarroossaa/Veglia)** — a candle in your menu bar that keeps the Mac awake while Claude Code, Codex or any coding agent is working.
+- ☕ [Buy me a coffee on Ko-fi](https://ko-fi.com/rosabosa)
